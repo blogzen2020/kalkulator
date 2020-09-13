@@ -1,4 +1,4 @@
-name: build svelte
+name: build svelte 
 
 on:
   push:
