@@ -687,7 +687,7 @@ var app = (function () {
     			 data.map(x => {
     				let banyak;
 
-    				if (x.banyak == null) {
+    				if (x.banyak == null || x.banyak == "") {
     					banyak = 1;
     				} else {
     					banyak = x.banyak;
