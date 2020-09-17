@@ -57,7 +57,7 @@
  ]
  $: data.map(x => {
   let banyak
-  if (x.banyak < 1){
+  if (x.banyak == null){
    banyak = 1
   } else {
    banyak = x.banyak
