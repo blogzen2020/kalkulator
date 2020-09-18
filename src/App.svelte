@@ -23,6 +23,7 @@
  </tbody>
 </table>
 <div class="tombol">
+ <a href="https://madebyzen.js.org" class="btn btn-success btn-lg">&#9876;</a>
  <div class="btn btn-light btn-lg">Total: {total.toLocaleString("id")}</div>
 </div>
 
